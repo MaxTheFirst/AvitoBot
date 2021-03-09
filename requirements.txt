@@ -1,0 +1,4 @@
+beautifulsoup4
+requests
+vk-api
+lxml
